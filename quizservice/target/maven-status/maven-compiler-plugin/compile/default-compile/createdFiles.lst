@@ -1,0 +1,8 @@
+com\example\demo\entity\quizentity.class
+com\example\demo\entity\Question.class
+com\example\demo\service\QuestionClient.class
+com\example\demo\dao\quizdao.class
+com\example\demo\controller\quizcontroller.class
+com\example\demo\service\quizservice.class
+com\example\demo\service\quizinterface.class
+com\example\demo\QuizserviceApplication.class
